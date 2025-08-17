@@ -1,12 +1,40 @@
-# React + Vite
+ # 📝 Todo Web Application  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Todo Web Application** built with **React.js**.  
+This project allows users to add, edit, and delete tasks, helping them manage daily activities easily.  
 
-Currently, two official plugins are available:
+Currently, this repository contains **frontend only**, while the **backend (with database)** will be added soon.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Add new tasks  
+- ✏️ Edit existing tasks  
+- 🗑️ Delete tasks  
+- 🎨 Clean and responsive UI with modern design  
+- ⚡ Fast performance with React  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend**: React.js, CSS  
+- **Backend (Coming Soon)**: Spring Boot / Node.js + Express (Planned)  
+- **Database (Coming Soon)**: MySQL / MongoDB (Planned)  
+
+---
+
+## 📂 Project Structure  
+
+
+Todo_Web_Application/
+│
+├── frontend/ # React.js code (current working directory)
+│ ├── src/
+│ ├── public/
+│ └── package.json
+│
+├── backend/ # Backend code (will be added later)
+│
+└── README.md
